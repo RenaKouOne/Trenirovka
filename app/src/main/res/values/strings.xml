@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trenirovka</string>
+    <string name="alertdialog_1">AlertDialog с 1 кнопкой</string>
+</resources>
